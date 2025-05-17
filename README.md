@@ -17,11 +17,11 @@ Currently, I’m working at the intersection of **Machine Learning**, **Generati
 
 ## 🛠 Tech Stack Snapshot
 
-**Languages**: Python, SQL  
-**Visualization & Analytics Tools**: Power BI, Tableau, Tableau Prep, Looker, Power Apps, Power Automate, Microsoft Fabrics, Figma  
-**ML/DS Libraries**: Numpy, Pandas, Matplotlib, Seaborn, scikit-learn, XGBoost, SkTime, TensorFlow, LangChain, Deep Learning, Unsupervised Learning, Feature Engineering, Classical Machine Learning, Time Series Forecasting, Regression, Supervised Classification, Data Modelling, ML Pipelining, Data Workflows, LLMs  
-**MLOps & Deployment**: Git, GitHub, GitHub Actions, FastAPI, MLflow, DVC, Docker, Streamlit  
-**Databases**: PostgreSQL, MySQL
+**💻 Languages**: Python, SQL  
+**📊 Visualization & Analytics Tools**: Power BI, Tableau, Tableau Prep, Looker, Power Apps, Power Automate, Microsoft Fabrics, Figma  
+**🧠 ML/DS Libraries**: Numpy, Pandas, Matplotlib, Seaborn, scikit-learn, XGBoost, SkTime, TensorFlow, LangChain, Deep Learning, Unsupervised Learning, Feature Engineering, Classical Machine Learning, Time Series Forecasting, Regression, Supervised Classification, Data Modelling, ML Pipelining, Data Workflows, LLMs  
+**⚙️ MLOps & Deployment**: Git, GitHub, GitHub Actions, FastAPI, MLflow, DVC, Docker, Streamlit  
+**🗄️ Databases**: PostgreSQL, MySQL
 
 
 
